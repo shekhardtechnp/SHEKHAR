@@ -1,7 +1,8 @@
 # SHEKHAR
 
 ### ⏱️ My WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/<your-user-id>.svg)](https://wakatime.com/@<your-user-id>)
+[![wakatime](https://wakatime.com/badge/user/shekhardtechnp.svg)](https://wakatime.com/@shekhardtechnp)
+
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
